@@ -1,0 +1,15 @@
+20/01/2020
+
+which python
+python --version
+(python3)
+
+il y a 3 type de projets, apprécié de rajouter des choses non-présentes en cours
+
+2 projets big data et 1 framework spark.
+Sprak sql et spark mllib
+
+PI:  set-executionpolicy unrestricted et Set-ExecutionPolicy RemoteSigned pour toggle l'activation des scripts sous powershell.
+
+pynb notebook
+ipynb
