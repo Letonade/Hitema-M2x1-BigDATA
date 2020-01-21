@@ -13,3 +13,6 @@ PI:  set-executionpolicy unrestricted et Set-ExecutionPolicy RemoteSigned pour t
 
 pynb notebook
 ipynb
+
+pip3 list | grep "" (pour la liste des mods)
+pip3 list | Select-String -Pattern matplotlib
