@@ -16,3 +16,9 @@ ipynb
 
 pip3 list | grep "" (pour la liste des mods)
 pip3 list | Select-String -Pattern matplotlib
+
+24-01-2020 : 
+Pour la partie docker. 
+	les infos de connexion sont :
+	bigdata
+	My_bigdata
