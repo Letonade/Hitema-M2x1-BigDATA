@@ -22,3 +22,16 @@ Pour la partie docker.
 	les infos de connexion sont :
 	bigdata
 	My_bigdata
+
+28-01-2020
+	Entrée 7 doit être un numpy array
+
+Pour rentrer dans un container docker :
+sudo docker exec -it (container) /bin/bash
+Pour inspect le docker :
+sudo docker inspect (container)
+
+Pour l'éxam voir:
+spark streaming et ml lib.
+
+++ Régréssion linéaire
